@@ -1,0 +1,28 @@
+{
+    "event_id": "16006039A2972DA3",
+    "url": "https://www.ticketmaster.com/zach-williams-and-tim-tebow-gainesville-florida-09-05-2024/event/22006082E17C1E11",
+    "seats": {
+        "quantity": 4,
+        "seatingType": {
+            "id": 2,
+            "description": "Consecutive"
+        },
+        "section": "109",
+        "standardSectionName": "Balcony First 4",
+        "row": "10",
+        "lowSeat": 3,
+        "highSeat": 6
+    },
+    "face_value": 62.5,
+    "cost": {
+        "value": 82.55,
+        "currencyCode": "USD"
+    },
+    "sale_price": {
+        "value": 99,
+        "currencyCode": "USD"
+    },
+    "venue_name": "Taft Theatre",
+    "date": "9/29/2024",
+    "order_id": 11037
+}
